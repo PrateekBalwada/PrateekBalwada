@@ -85,13 +85,12 @@
 <br/>  
 
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=PrateekBalwada&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=PrateekBalwada&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=PrateekBalwada&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=PrateekBalwada&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=PrateekBalwada&&style=flat-square" align="center" />
-</div>  
+---
+[![](https://visitcount.itsvg.in/api?id=PrateekBalwada&icon=2&color=6)](https://visitcount.itsvg.in)
 
 <br />

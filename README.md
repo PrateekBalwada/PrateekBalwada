@@ -90,5 +90,5 @@
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=PrateekBalwada&theme=radical&hide_border=false&include_all_commits=false&count_private=false" align="center" /></div>  
 <br/>  
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=PrateekBalwada&&style=flat-square](https://visitcount.itsvg.in/api?id=PrateekBalwada&icon=2&color=5" align="center" />
+<img src="(https://visitcount.itsvg.in/api?id=PrateekBalwada&icon=2&color=6)](https://visitcount.itsvg.in)" align="center" />
 </div>  

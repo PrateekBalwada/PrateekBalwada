@@ -87,9 +87,11 @@
 
 
 # 📊 GitHub Stats:
+<div align="center">
 ![](https://github-readme-stats.vercel.app/api?username=PrateekBalwada&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+</div>
 
 <div align="center">
-[![](https://visitcount.itsvg.in/api?id=PrateekBalwada&icon=2&color=6)](https://visitcount.itsvg.in)
+<a href="https://visitcount.itsvg.in/api?id=PrateekBalwada&icon=2&color=6)](https://visitcount.itsvg.in"/>
 </div>
 <br />

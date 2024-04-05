@@ -92,6 +92,6 @@
 </div>
 
 <div align="center">
-<a href="https://visitcount.itsvg.in/api?id=PrateekBalwada&icon=2&color=6)](https://visitcount.itsvg.in"/>
+![](https://visitcount.itsvg.in/api?id=PrateekBalwada&icon=2&color=6)](https://visitcount.itsvg.in)</br>
 </div>
 <br />

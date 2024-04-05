@@ -86,10 +86,9 @@
 <br/>  
 
 
-# 📊 GitHub Stats:
-
+## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=PrateekBalwada&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<br/>  
 <div align="center">
-<img src="https://private-user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTIzMjc4NTAsIm5iZiI6MTcxMjMyNzU1MCwicGF0aCI6Ii83NDAzODE5MC8yNDE3NjU0NDAtODA3Mjg4MjAtZTA2Yi00Zjk2LTljOWUtOWRmNDZmMGNjMGE1LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA0MDUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNDA1VDE0MzIzMFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWFjMmE2NjliMjNhNGYwNDliYTc5OWRhNzM3NTYzNTgwYzg3ZGYxYjhkMGVmOGYxMDY0ZTI2N2UzN2ZjZWFkMjUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.ksT7iCYlam1-eZ95snvTqYNfHxnPVCtKx32tEQnjDgk" align="center" />
-<img src="profile.gif" align="center" />
-</div>
-<br />
+<img src="https://komarev.com/ghpvc/?username=PrateekBalwada&&style=flat-square" align="center" />
+</div>  

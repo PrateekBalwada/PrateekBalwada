@@ -80,17 +80,16 @@
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
 </div>  
-  
+
+
 
 <br/>  
 
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=PrateekBalwada&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=PrateekBalwada&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=PrateekBalwada&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
+<div align="center">
 [![](https://visitcount.itsvg.in/api?id=PrateekBalwada&icon=2&color=6)](https://visitcount.itsvg.in)
-
+</div>
 <br />
